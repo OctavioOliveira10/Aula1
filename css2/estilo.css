@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.principal{
+    margin: 0 auto;
+    width:50% ;
+    height: 60px;
+    align-items: center;
+    text-align: center;
+    height:auto;
+    border-radius: 8px;
+    background-color: rgb(182, 220, 255);
+}
+
+.order{
+    font-size: 30px;
+}
+
+.background-blue{
+    margin-top: 25%;
+    width: auto;
+    height: 200px;
+    background-color: blue;
+}
